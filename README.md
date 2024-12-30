@@ -10,9 +10,11 @@
 I'm a passionate Data Scientist with a solid foundation in statistical methodologies and a knack for uncovering actionable insights from data. I recently graduated with a degree in Statistics from the University of Nairobi and completed an intensive Data Science program at Moringa School. My experience spans data analysis, machine learning, and project management, honed through hands-on projects and professional roles.
 
 - 💬 Ask me about **Statistical Modeling, Machine Learning, N.L.P, Data Engineering, Model Deployment, Performance Tuning & Data Analytics**
-
+  
 
 - 📫 Let’s collaborate on exciting data-driven projects! Check out my repositories, or reach out to discuss ideas and opportunities.
+  
+- Email: kennedyowino456@gmail.com
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=KennedyOwinoJnr)
 
