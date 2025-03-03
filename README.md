@@ -27,7 +27,7 @@ I'm a passionate Data Scientist with a solid foundation in statistical methodolo
 
 <img src="https://github-readme-stats.vercel.app/api?username=KennedyOwinoJnr&theme=radical&show_icons=true" alt="Github Stats"/>
 
-![Kennedy Owino Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kennedyowino&theme=gotham&layout=compact)
+![Kennedy Owino Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KennJnr&theme=gotham&layout=compact)
 <br/>
 
 # Tech Stacks
