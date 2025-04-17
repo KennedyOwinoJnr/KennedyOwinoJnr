@@ -1,8 +1,5 @@
 # Hi there, I Am Kennedy! 👋
 
-<a href="https://kennedyowino.com/" target="_blank">
-    <img src="https://drive.google.com/uc?id=1KNJzOdel5z8yOMoAJANlRNTAU9hjMtPZ" alt="image host"/>
-</a>
 
 
 # Bio 
